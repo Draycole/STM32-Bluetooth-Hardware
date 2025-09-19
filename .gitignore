@@ -1,0 +1,10 @@
+
+*.bak
+*.kicad_sch.lck
+*.kicad_sym
+*.kicad_prl
+STM32 with BT Hardware-backups/
+#auto_saved_files#.txt
+fp-info-cache.txt
+fp-lib-table.txt
+sym-lib-table.txt
